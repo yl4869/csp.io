@@ -1,0 +1,51 @@
+{{ define "main" }}
+{{ partial "publications.html" . }}
+
+
+{{/* 读取 JSON 数据文件 */}}
+{{ $publicationsData := .Site.Data.publications }}
+<style>
+  .citation {
+    font-family: 'Sans-serif';
+    font-size: 13;
+    color: #333;
+  }
+</style>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IEEE Bibliography</title>
+</head>
+
+<body>
+
+  {{ with $publicationsData.publications }}
+  {{ $uniqueYears := slice }}
+  {{ range . }}
+  {{ $year := .year }}
+  {{ if not (in $uniqueYears $year) }}
+  {{ $uniqueYears = $uniqueYears | append $year }}
+  {{ end }}
+  {{ end }}
+
+  {{ range $uniqueYears }}
+  <h2>{{ . }}</h2>
+  {{ range where $publicationsData.publications "year" . }}
+  <div class="citation">
+    <p>
+      {{ .authors }}. "{{ .title}}," <i>{{ .journal }}</i>.
+      {{ if .volume }}vol. {{ .volume }},{{ end }}
+      {{ if .number }}no. {{ .number }},{{ end }}
+      {{ if .pages }}pp. {{ .pages }},{{ end }}
+      {{ .year }}.
+    </p>
+  </div>
+  {{ end }}
+  {{ end }}
+
+  {{ end }}
+
+</body>
+
+{{ end }}

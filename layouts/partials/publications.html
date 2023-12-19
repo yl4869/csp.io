@@ -1,0 +1,85 @@
+{{/* 读取 JSON 数据文件 */}}
+{{ $publicationsData := .Site.Data.publications }}
+
+{{/* 统计每个年份的论文数量 */}} {{ $publicationCounts := newScratch }}
+
+{{ range $publicationsData.publications }}
+{{ $year := string .year }}
+{{ $value := $publicationCounts.Get $year }}
+{{ with $value }}
+{{ $publicationCounts.Add $year 1 }}
+{{ else }}
+{{ $publicationCounts.Set $year 1}}
+{{ end }}
+{{ end }}
+
+
+
+<head>
+  <!-- 引入 Chart.js 库 -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>IEEE Bibliography</title>
+</head>
+
+<body>
+
+  <h1>Publications</h1>
+
+  <!-- 显示柱状图的容器 -->
+  <div style="width: 80%; margin: auto;">
+    <canvas id="publicationChart"></canvas>
+  </div>
+
+  {{ with $publicationsData.publications }}
+  {{ $uniqueYears := slice }}
+  {{ range . }}
+  {{ $year := .year }}
+  {{ if not (in $uniqueYears $year) }}
+  {{ $uniqueYears = $uniqueYears | append $year }}
+  {{ end }}
+  {{ end }}
+
+  {{ $publicationCounts := $publicationCounts.Values }}
+  {{/* 初始化柱状图的数据 */}}
+  {{ $chartData := slice }}
+  {{ range $uniqueYears }}
+  {{ $year := string . }}
+  {{ with index $publicationCounts $year }}
+  {{ $chartData = $chartData | append (dict "year" $year "count" (index $publicationCounts $year)) }}
+  {{ else }}
+  {{ $chartData = $chartData | append (dict "year" $year "count" 0) }}
+  {{ end }}
+  {{ end }}
+
+  {{ $chartData = $chartData | collections.Reverse }}
+  <!-- 使用 JavaScript 生成柱状图 -->
+  <script>
+    var ctx = document.getElementById('publicationChart').getContext('2d');
+    var myChart = new Chart(ctx, {
+      type: 'bar',
+      data: {
+        labels: [{{range $chartData}}"{{ .year }}",{{end}}],
+    datasets: [{
+      label: 'Number of Publications',
+      data: [{{range $chartData}}{{ .count}}, {{end}}],
+      backgroundColor: 'rgba(75, 192, 192, 0.2)',
+        borderColor: 'rgba(75, 192, 192, 1)',
+          borderWidth: 1
+          }]
+        },
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+      });
+  </script>
+
+  {{ end }}
+
+</body>

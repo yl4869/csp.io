@@ -1,0 +1,1240 @@
+{
+  "publications": [
+    {
+      "authors": "Yuhan Lin, Jinghao Sun, Qingxu Deng, Meiling Han, Zhiwei Feng, Shumo Wang",
+      "title": "LAG-Based Analysis for Preemptive Global Scheduling with Dynamic Cache Allocation",
+      "journal": "RTCSA",
+      "year": 2023
+    },
+    {
+      "authors": "Jinghao Sun, Kailu Duan, Xisheng Li, Nan Guan, Zhishan Guo, Qingxu Deng, Guozhen Tan",
+      "title": "Real-Time Scheduling of Autonomous Driving System with Guaranteed Timing Correctness",
+      "journal": "RTAS",
+      "year": 2023
+    },
+    {
+      "authors": "Ruoxiang Li, Tao Hu, Xu Jiang, Laiwen Li, Wenxuan Xing, Qingxu Deng, Nan Guan",
+      "title": "ROSGM: A Real-Time GPU Management Framework with Plug-In Policies for ROS 2",
+      "journal": "RTAS",
+      "year": 2023
+    },
+    {
+      "authors": "Kejun Chen, Orlando Arias, Xiaolong Guo, Qingxu Deng, Yier Jin",
+      "title": "IP-Tag: Tag-Based Runtime 3PIP Hardware Trojan Detection in SoC Platforms",
+      "journal": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "volume": 42,
+      "number": 1,
+      "pages": "68-81",
+      "year": 2023
+    },
+    {
+      "authors": "Shuai Wang, Wei-Xi Li, Lu Wang, Lisheng Xu, Qingxu Deng",
+      "title": "VGT-MOT: visibility-guided tracking for online multiple-object tracking",
+      "journal": "Mach. Vis. Appl.",
+      "volume": 34,
+      "number": 4,
+      "pages": 50,
+      "year": 2023
+    },
+    {
+      "authors": "Zhiwei Feng, Chaoquan Wu, Qingxu Deng, Meiling Han, Yuhan Lin",
+      "title": "ReT-FTS: Re-transmission-based fault-tolerant scheduling in TSN",
+      "journal": "J. Syst. Archit.",
+      "volume": 142,
+      "pages": 102959,
+      "year": 2023
+    },
+    {
+      "authors": "Peiyu Yang, Weixi Li, Lu Wang, Lisheng Xu, Qingxu Deng",
+      "title": "Visible part prediction and temporal calibration for pedestrian detection",
+      "journal": "IET Image Process.",
+      "volume": 17,
+      "number": 1,
+      "pages": "42-56",
+      "year": 2023
+    },
+    {
+      "authors": "Kankan Wang, Qingxu Deng",
+      "title": "Mixed-Criticality Scheduling of Energy-Harvesting Systems",
+      "conference": "2022 IEEE Real-Time Systems Symposium (RTSS)",
+      "pages": "435-446",
+      "year": 2022
+    },
+    {
+      "authors": "Kankan Wang, Yuhan Lin, Qingxu Deng",
+      "title": "Response Time Analysis for Energy-Harvesting Mixed-Criticality Systems",
+      "conference": "DATE 2022",
+      "pages": "1293-1298",
+      "year": 2022
+    },
+    {
+      "authors": "Zhiwei Feng, Qingxu Deng, Mingyang Cai, Jinghua Li",
+      "title": "Efficient Reservation-based Fault-Tolerant Scheduling for IEEE 802.1Qbv Time-Sensitive Networking",
+      "journal": "J. Syst. Archit.",
+      "volume": 123,
+      "pages": 102381,
+      "year": 2022
+    },
+    {
+      "authors": "Zhiwei Feng, Zonghua Gu, Haichuan Yu, Qingxu Deng, Linwei Niu",
+      "title": "Online Re-routing for Fault-Resilient Scheduling of Time-Sensitive Networking",
+      "conference": "EMSOFT-TCAD 2022",
+      "year": 2022
+    },
+    {
+      "authors": "Zexian Pan, Qingxu Deng, Zhiwei Feng, Yuhan Lin, Changqing Xia",
+      "title": "Optimized Scheduling for Guard Bands Reduction in Time-Sensitive Networking",
+      "conference": "IEEE International Conference on Embedded Software and Systems (ICESS) 2022",
+      "status": "to appear",
+      "year": 2022
+    },
+    {
+      "authors": "Shuangshuang Chang, Ran Bi, Jinghao Sun, Weichen Liu, Qi Yu, Qingxu Deng, Zonghua Gu",
+      "title": "Towards Minimum WCRT Bound for DAG Tasks Under Prioritized List Scheduling Algorithms",
+      "journal": "TCAD",
+      "year": 2022
+    },
+    {
+      "authors": "Shuangshuang Chang, Jinghao Sun, Zhenyu Liu, Xufeng Zhao, Qingxu Deng",
+      "title": "Response time analysis of parallel tasks on accelerator-based heterogeneous platforms",
+      "journal": "J. Syst. Archit.",
+      "volume": 126,
+      "pages": 102484,
+      "year": 2022
+    },
+    {
+      "authors": "Shuangshuang Chang, Jinghao Sun, Zhixiong Hao, Qingxu Deng, Nan Guan",
+      "title": "Computing exact WCRT for typed DAG tasks on heterogeneous multi-core processors",
+      "journal": "J. Syst. Archit.",
+      "volume": 124,
+      "pages": 102385,
+      "year": 2022
+    },
+    {
+      "authors": "Kejun Chen, Orlando Arias, Qingxu Deng, Daniela Oliveira, Xiaolong Guo, Yier Jin",
+      "title": "FineDIFT: Fine-Grained Dynamic Information Flow Tracking for Data-Flow Integrity Using Coprocessor",
+      "journal": "IEEE Trans. Inf. Forensics Secur.",
+      "volume": 17,
+      "pages": "559-573",
+      "year": 2022
+    },
+    {
+      "authors": "Kejun Chen, Lei Sun, Qingxu Deng",
+      "title": "Hardware and software co-verification from security perspective in SoC platforms",
+      "journal": "J. Syst. Archit.",
+      "volume": 122,
+      "pages": 102355,
+      "year": 2022
+    },
+    {
+      "authors": "Kejun Chen, Orlando Arias, Xiaolong Guo, Qingxu Deng, Yier Jin",
+      "title": "Ip-tag: Tag-based runtime 3pip hardware trojan detection in soc platforms",
+      "journal": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "status": "TCAD(2022)",
+      "year": 2022
+    },
+    {
+      "authors": "Dawei Shen, Tianyu Zhang, Jiachen Wang, Qingxu Deng, Song Han, Xiaobo Sharon Hu",
+      "title": "Distributed Successive Packet Scheduling for Multi-Channel Real-Time Wireless Networks",
+      "conference": "RTCSA 2022",
+      "year": 2022
+    },
+    {
+      "authors": "Dawei Shen, Tianyu Zhang, Jiachen Wang, Qingxu Deng, Song Han, Xiaobo Sharon Hu",
+      "title": "QoS Guaranteed Resource Allocation for Coexisting eMBB and URLLC Traffic in 5G Industrial Networks",
+      "conference": "RTCSA 2022",
+      "year": 2022
+    },
+    {
+      "authors": "Yanfeng Chen, Tianyu Zhang, Fanxin Kong, Lin Zhang, Qingxu Deng",
+      "title": "Attack-Resilient Fusion of Sensor Data with Uncertain Delays",
+      "journal": "TECS",
+      "year": 2022
+    },
+    {
+      "authors": "Dingfu Chen, Kangwei Lin, Ziheng Deng, Dayu Li, Qingxu Deng",
+      "title": "Attention-based convolutional long short-term memory neural network for detection of patient-ventilator asynchrony from mechanical ventilation",
+      "journal": "Biomedical Signal Processing and Control",
+      "volume": 78,
+      "pages": 103923,
+      "year": 2022
+    },
+    {
+      "authors": "孙磊",
+      "title": "基于成本优化的电动汽车弹性充电策略的研究",
+      "journal": "小型微型计算机系统",
+      "year": 2022
+    },
+    {
+      "authors": "杜岚",
+      "title": "一种基于 RISC-V 架构的高性能嵌入式处理器设计",
+      "journal": "小型微型计算机系统",
+      "year": 2022
+    },
+    {
+      "authors": "Jinhui Yu, Yuhuai Peng, Qingxu Deng",
+      "title": "Remaining Useful Life Prediction Based on Multi-scale Residual Convolutional Network for Aero-engine",
+      "conference": "ICPHM",
+      "pages": "1-6",
+      "year": 2021
+    },
+    {
+      "authors": "Lei Sun, Yanfeng Chen, Wenlong Li, Qingxu Deng",
+      "title": "Charging stations-oriented electric vehicle charging strategy based on battery characteristics",
+      "journal": "Softw. Pract. Exp.",
+      "volume": 51,
+      "number": 11,
+      "pages": "2168-2184",
+      "year": 2021
+    },
+    {
+      "authors": "Meiling Han, Tianyu Zhang, Yuhan Lin, Qingxu Deng",
+      "title": "Federated scheduling for Typed DAG tasks scheduling analysis on heterogeneous multi-cores",
+      "journal": "J. Syst. Archit.",
+      "volume": 112,
+      "pages": 101870,
+      "year": 2021
+    },
+    {
+      "authors": "Peiyu Yang, Guofeng Zhang, Lu Wang, Lisheng Xu, Qingxu Deng, Ming-Hsuan Yang",
+      "title": "A Part-Aware Multi-Scale Fully Convolutional Network for Pedestrian Detection",
+      "journal": "IEEE Trans. Intell. Transp. Syst.",
+      "volume": 22,
+      "number": 2,
+      "pages": "1125-1137",
+      "year": 2021
+    },
+    {
+      "authors": "Tianyu Zhang, Tao Gong, Song Han, Qingxu Deng, Xiaobo Sharon Hu",
+      "title": "Fully Distributed Packet Scheduling Framework for Handling Disturbances in Lossy Real-Time Wireless Networks",
+      "journal": "IEEE Trans. Mob. Comput.",
+      "volume": 20,
+      "number": 2,
+      "pages": "502-518",
+      "year": 2021
+    },
+    {
+      "authors": "Yuhan Lin, Xi Jin, Tianyu Zhang, Meiling Han, Nan Guan, Qingxu Deng",
+      "title": "Queue assignment for fixed-priority real-time flows in time-sensitive networks: Hardness and algorithm",
+      "journal": "J. Syst. Archit.",
+      "volume": 116,
+      "pages": 102141,
+      "year": 2021
+    },
+    {
+      "authors": "Feng Z, Cai M, Deng Q",
+      "title": "An Efficient Pro-active Fault-Tolerance Scheduling of IEEE 802.1 Qbv Time-Sensitive Network",
+      "journal": "IEEE Internet of Things Journal",
+      "year": 2021
+    },
+    {
+      "authors": "Haibin Tong, Ning Xin, Xianli Su, Tengfeng Chen",
+      "title": "A Robust PDR/UWB Integrated Indoor localization Algorithm in Harsh IoT Environments for Pedestrian",
+      "journal": "Sensors",
+      "year": 2020
+    },
+    {
+      "authors": "Jiantong Jiang, Zeke Wang, Xue Liu, Juan Gómez-Luna, Nan Guan, Qingxu Deng, Wei Zhang, Onur Mutlu",
+      "title": "Boyi: A Systematic Framework for Automatically Deciding the Right Execution Model of OpenCL Applications on FPGAs",
+      "conference": "FPGA 2020",
+      "pages": "299-309",
+      "year": 2020
+    },
+    {
+      "authors": "Huiting Xu, Xi Jin, Fanxin Kong, Qingxu Deng",
+      "title": "Two Level Colocation Demand Response with Renewable Energy",
+      "journal": "IEEE Trans. Sustain. Comput.",
+      "volume": 5,
+      "number": 1,
+      "pages": "147-159",
+      "year": 2020
+    },
+    {
+      "authors": "Jinghao Sun, Nan Guan, Shuangshuang Chang, Feng Li, Qingxu Deng, Wang Yi",
+      "title": "Capacity Augmentation Function for Real-Time Parallel Tasks With Constrained Deadlines Under GEDF Scheduling",
+      "journal": "IEEE Trans. Comput. Aided Des. Integr. Circuits Syst.",
+      "volume": 39,
+      "number": 12,
+      "pages": "4537-4548",
+      "year": 2020
+    },
+    {
+      "authors": "Lu Wang, Liangbin Xie, Peiyu Yang, Qingxu Deng, Shuo Du, Lisheng Xu",
+      "title": "Hardhat-Wearing Detection Based on a Lightweight Convolutional Neural Network with Multi-Scale Features and a Top-Down Module",
+      "journal": "Sensors",
+      "volume": 20,
+      "number": 7,
+      "pages": "1868",
+      "year": 2020
+    },
+    {
+      "authors": "Shuangshuang Chang, Xufeng Zhao, Zhenyu Liu, Qingxu Deng",
+      "title": "Real-Time scheduling and analysis of parallel tasks on heterogeneous multi-cores",
+      "journal": "J. Syst. Archit.",
+      "volume": 105,
+      "pages": 101704,
+      "year": 2020
+    },
+    {
+      "authors": "Zhiwei Feng, Nan Guan, Mingsong Lv, Wenchen Liu, Qingxu Deng, Xue Liu, Wang Yi",
+      "title": "Efficient drone hijacking detection using two-step GA-XGBoost",
+      "journal": "J. Syst. Archit.",
+      "volume": 103,
+      "pages": 101694,
+      "year": 2020
+    },
+    {
+      "authors": "Yi Zhang, Ran Cui, Mingsong Lv, Chuanwen Li, Qingxu Deng",
+      "title": "Predicting Performance Degradation on Adaptive Cache Replacement Policy",
+      "conference": "ICPADS 2020",
+      "pages": "109-116",
+      "year": 2020
+    },
+    {
+      "authors": "Yue Tang, Zhiwei Feng, Nan Guan, Xu Jiang, Mingsong Lv, Qingxu Deng, Wang Yi",
+      "title": "Response Time Analysis and Priority Assignment of Processing Chains on ROS2 Executors",
+      "conference": "RTSS 2020",
+      "pages": "231-243",
+      "year": 2020
+    },
+    {
+      "authors": "常爽爽，赵栩锋，刘震宇，邓庆绪",
+      "title": "基于异构多核的多类型DAG任务的响应时间分析",
+      "journal": "计算机学报",
+      "volume": "043",
+      "number": "006",
+      "pages": "1052-1068",
+      "year": 2020
+    },
+    {
+      "authors": "Tao Yang, Qingxu Deng, Lei Sun",
+      "title": "Building real-time parallel task systems on multi-cores: A hierarchical scheduling approach",
+      "journal": "Journal of Systems Architecture - Embedded Systems Design",
+      "volume": 92,
+      "year": 2019
+    },
+    {
+      "authors": "Aiping Tan, Yuhuai Peng, Xianli Su, Haibin Tong, Qingxu Deng",
+      "title": "A Novel Synchronization Scheme Based on a Dynamic Superframe for an Industrial Internet of Things in Underground Mining",
+      "journal": "Sensors",
+      "volume": 19,
+      "number": 3,
+      "year": 2019
+    },
+    {
+      "authors": "Zhiwei Feng, Nan Guan, Mingsong Lv, Weichen Liu, Qingxu Deng, Xue Liu, Wang Yi",
+      "title": "An Efficient UAV Hijacking Detection Method Using Onboard Inertial Measurement Unit",
+      "journal": "ACM Transactions on Embedded Computing Systems",
+      "volume": 17,
+      "number": 6,
+      "year": 2019
+    },
+    {
+      "authors": "Tianyu Zhang, Tao Gong, Song Han, Qingxu Deng, Xiaobo Sharon Hu",
+      "title": "Distributed Dynamic Packet Scheduling Framework for Handling Disturbances in Real-Time Wireless Networks",
+      "journal": "IEEE Transactions on Mobile Computing",
+      "volume": 18,
+      "number": 11,
+      "year": 2019
+    },
+    {
+      "authors": "Kankan Wang, Xu Jiang, Nan Guan, Di Liu, Weichen Liu, Qingxu Deng",
+      "title": "Real-Time Scheduling of DAG Tasks with Arbitrary Deadlines",
+      "journal": "ACM Transactions on Design Automation of Electronic Systems",
+      "volume": 24,
+      "number": 6,
+      "year": 2019
+    },
+    {
+      "authors": "Meiling Han, Nan Guan, Jinghao Sun, Qingqiang He, Qingxu Deng, Weichen Liu",
+      "title": "Response Time Bounds for Typed DAG Parallel Tasks on Heterogeneous Multi-Cores",
+      "journal": "IEEE Transactions on Parallel and Distributed Systems",
+      "volume": 30,
+      "number": 11,
+      "year": 2019
+    },
+    {
+      "authors": "Tao Gong, Tianyu Zhang, Xiaobo Sharon Hu, Qingxu Deng, Michael Lemmon, Song Han",
+      "title": "Reliable Dynamic Packet Scheduling over Lossy Real-Time Wireless Networks",
+      "conference": "31st Euromicro Conference on Real-Time Systems (ECRTS 2019)",
+      "year": 2019
+    },
+    {
+      "authors": "Tao Yang, Qingxu Deng",
+      "title": "Global Multiprocessor Scheduling with Job Level Priority Assignment",
+      "journal": "Journal of Circuits, Systems, and Computers",
+      "volume": 28,
+      "number": 12,
+      "pages": "1950210",
+      "year": 2019
+    },
+    {
+      "authors": "Tao Yang, Yue Tang, Xu Jiang, Qingxu Deng, Nan Guan",
+      "title": "Semi-Federated Scheduling of Mixed-Criticality System for Sporadic DAG Tasks",
+      "conference": "ISORC 2019",
+      "pages": "163-170",
+      "year": 2019
+    },
+    {
+      "authors": "Xuemei Peng, Meiling Han, Qingxu Deng",
+      "title": "Response Time Analysis of Typed DAG Tasks for G-FP Scheduling",
+      "conference": "SETTA 2019",
+      "pages": "56-71",
+      "year": 2019
+    },
+    {
+      "authors": "Tianyu Zhang, Tao Gong, Song Han, Qingxu Deng, Xiaobo Sharon Hu",
+      "title": "Fully Distributed Packet Scheduling Framework for Handling Disturbances in Lossy Real-Time Wireless Networks",
+      "note": "CoRR abs/1902.02023",
+      "year": 2019
+    },
+    {
+      "authors": "韩美灵, 邓庆绪, 张天宇, 冯智伟, 林宇晗",
+      "title": "多核处理器限制性可抢占G-EDF调度策略研究",
+      "journal": "计算机学报",
+      "volume": 42,
+      "number": 11,
+      "pages": "1052-1068",
+      "year": 2019
+    },
+    {
+      "authors": "Yuhuai P, Qingxu D, Lei G U O, et al.",
+      "title": "A new network coding based routing protocol for enhancing throughput capacity in wireless mesh networks",
+      "journal": "Chinese Journal of Electronics",
+      "volume": 28,
+      "number": 2,
+      "pages": "416-422",
+      "year": 2019
+    },
+    {
+      "authors": "Zhiwei Feng, Nan Guan, Mingsong Lv, Weichen Liu, Qingxu Deng, etc.",
+      "title": "Efficient Drone Hijacking Detection using Onboard Motion Sensors",
+      "journal": "ACM Transactions on Embedded Computing Systems",
+      "year": 2018
+    },
+    {
+      "authors": "Yuhuai Peng, Xiaojie Wang, Dawei Shen, Wei Yan, Yanhua Fu, Qingxu Deng",
+      "title": "Design and modeling of survivable network planning for software-defined data center networks in smart city",
+      "journal": "International Journal of Communication Systems",
+      "volume": 31,
+      "number": 16,
+      "year": 2018
+    },
+    {
+      "authors": "Haibin Tong, Qingxu Deng, Tianyu Zhang, Yuanguo Bi",
+      "title": "A low-cost indoor localization system based on received signal strength indicator by modifying trilateration for harsh environments",
+      "journal": "IJDSN",
+      "volume": 14,
+      "number": 6,
+      "year": 2018
+    },
+    {
+      "authors": "Meiling Han, Tianyu Zhang, Yuhan Lin, Zhiwei Feng, Qingxu Deng",
+      "title": "Global Fixed Priority Scheduling with Constructing Execution Dependency in Multiprocessor Real-Time Systems",
+      "journal": "Journal of Circuits, Systems, and Computers",
+      "volume": 27,
+      "number": 10,
+      "pages": "1850165:1-1850165:19",
+      "year": 2018
+    },
+    {
+      "authors": "Chuanwen Li, Yu Gu, Jianzhong Qi, Jiayuan He, Qingxu Deng, Ge Yu",
+      "title": "A GPU Accelerated Update Efficient Index for kNN Queries in Road Networks",
+      "conference": "ICDE 2018",
+      "pages": "881-892",
+      "year": 2018
+    },
+    {
+      "authors": "Shihua Huang, Lu Wang, Peiyu Yang, Qingxu Deng",
+      "title": "A Local Top-Down Module for Object Detection with Multi-scale Features",
+      "conference": "PRCV (4) 2018",
+      "pages": "65-77",
+      "year": 2018
+    },
+    {
+      "authors": "Meiling Han, Tianyu Zhang, Qingxu Deng",
+      "title": "Bounding Carry-in Interference for Synchronous Parallel Tasks under Global Fixed-Priority Scheduling",
+      "journal": "Journal of Systems Architecture",
+      "volume": 90,
+      "pages": "34-43",
+      "year": 2018
+    },
+    {
+      "authors": "Jinghao Sun, Nan Guan, Xu Jiang, Shuangshuang Chang, Zhishan Guo, Qingxu Deng, Wang Yi",
+      "title": "A Capacity Augmentation Bound for Real-Time Constrained-Deadline Parallel Tasks under GEDF",
+      "journal": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+      "volume": 37,
+      "number": 11,
+      "pages": "2200-2211",
+      "year": 2018
+    },
+    {
+      "authors": "Yuanguo Bi, Guangjie Han, Chuan Lin, Qingxu Deng, Lei Guo",
+      "title": "Mobility Support for Fog Computing: An SDN Approach",
+      "journal": "IEEE Communications Magazine",
+      "volume": 56,
+      "number": 5,
+      "pages": "53-59",
+      "year": 2018
+    },
+    {
+      "authors": "Kejun Chen, Shuai Zhang, Zhikun Li, Yi Zhang, Qingxu Deng, Sandip Ray, Yier Jin",
+      "title": "Internet-of-Things Security and Vulnerabilities: Taxonomy, Challenges, and Practice",
+      "journal": "J. Hardware and Systems Security",
+      "volume": 2,
+      "number": 2,
+      "pages": "97-110",
+      "year": 2018
+    },
+    {
+      "authors": "Tianyu Zhang, Tao Gong, Zelin Yun, Song Han, Qingxu Deng and Xiaobo Sharon Hu",
+      "title": "FD-PaS: A Fully Distributed Packet Scheduling for Handling Disturbances in Real-Time Wireless Networks",
+      "conference": "IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2018)",
+      "pages": "1-12",
+      "year": 2018
+    },
+    {
+      "authors": "Jian Yan, Yuhuai Peng, Dawei Shen, Xinxin Yan, Qingxu Deng",
+      "title": "A novel energy-efficient routing scheme based on Artificial Bee Colony Algorithm in Wireless Body Area Networks",
+      "conference": "International Conference on Computer, Information and Telecommunication Systems (CITS) 2018",
+      "year": 2018
+    },
+    {
+      "authors": "Jian Yan, Yuhuai Peng, Dawei Shen, Xinxin Yan, Qingxu Deng",
+      "title": "An Artificial Bee Colony-Based Green Routing Mechanism in WBANs for Sensor-Based E-Healthcare Systems",
+      "journal": "Sensors",
+      "volume": 18,
+      "number": 10,
+      "year": 2018
+    },
+    {
+      "authors": "Dawei Shen, Wei Yan, Yuhuai Peng, Yanhua Fu, Qingxu Deng",
+      "title": "Congestion Control and Traffic Scheduling for Collaborative Crowdsourcing in SDN Enabled Mobile Wireless Networks",
+      "journal": "Wireless Communications and Mobile Computing",
+      "year": 2018
+    },
+    {
+      "authors": "Yuhuai Peng, Xiaojie Wang, Dawei Shen, Wei Yan, Yanhua Fu, Qingxu Deng",
+      "title": "Design and Modeling of Survivable Network Planning for Software-Defined Data Center Networks in Smart City",
+      "journal": "International Journal of Communication Systems",
+      "volume": 31,
+      "number": 16,
+      "year": 2018
+    },
+    {
+      "authors": "孙景昊, 孙景昶, 关楠, 邓庆绪",
+      "title": "偶发实时系统可调度性分析问题的整数规划方法",
+      "journal": "软件学报",
+      "volume": 28,
+      "number": 2,
+      "pages": "411-428",
+      "year": 2017
+    },
+    {
+      "authors": "Xi Jin, Fanxin Kong, Linghe Kong, Changqing Xia, Qingxu Deng",
+      "title": "A Hierarchical Data Transmission Framework for Industrial Wireless Sensor and Actuator Networks",
+      "journal": "IEEE Transactions on Industrial Informatics",
+      "volume": 13,
+      "number": 4,
+      "pages": "2019-2029",
+      "year": 2017
+    },
+    {
+      "authors": "Huiting Xu, Fanxin Kong, Xi Jin",
+      "title": "Maximizing the Lifetime of Wireless Sensor Networks in Trains for Monitoring Long-Distance Goods Transportation",
+      "journal": "International Journal of Distributed Sensor Networks",
+      "volume": 13,
+      "number": 5,
+      "pages": "1-12",
+      "year": 2017
+    },
+    {
+      "authors": "Junping Qin, Shiwen Sun, Qingxu Deng, Limin Liu, Yonghong Tian",
+      "title": "Indoor Trajectory Tracking Scheme Based on Delaunay Triangulation and Heuristic Information in Wireless Sensor Networks",
+      "journal": "Sensors",
+      "volume": 17,
+      "pages": "1275-1289",
+      "year": 2017
+    },
+    {
+      "authors": "Xue Liu, Xin-Xin Yan, Ze-ke Wang, Qingxu Deng",
+      "title": "Design and FPGA Implementation of a Reconfigurable Digital Down Converter for Wideband Applications",
+      "journal": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+      "volume": 25,
+      "number": 12,
+      "pages": "3548-3552",
+      "year": 2017
+    },
+    {
+      "authors": "Tianyu Zhang, Tao Gong, Chuancai Gu, Huayi Ji, Song Han, Qingxu Deng, Xiaobo Sharon Hu",
+      "title": "Distributed Dynamic Packet Scheduling for Handling Disturbances in Real-Time Wireless Networks",
+      "conference": "IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2017)",
+      "pages": "261-272",
+      "year": 2017
+    },
+    {
+      "authors": "Zhiwei Feng, Nan Guan, Mingsong Lv, Weichen Liu, Qingxu Deng, Xue Liu, and Wang Yi",
+      "title": "Efficient drone hijacking detection using onboard motion sensors",
+      "conference": "Design, Automation & Test in Europe Conference & Exhibition (DATE 2017)",
+      "pages": "1414-1419",
+      "year": 2017
+    },
+    {
+      "authors": "Yan Wang, Qingxu Deng, Genghao Liu, Xiuping Hao, Baoyan Song",
+      "title": "An Energy-Efficient Query Based on Variable Region for Large-Scale Smart Grid",
+      "journal": "China Communications",
+      "volume": 13,
+      "number": 10,
+      "pages": "119-136",
+      "year": 2017
+    },
+    {
+      "authors": "孙景昊, 关楠, 邓庆绪*, 张鑫, 杨丰源",
+      "title": "城市交通网络信号控制系统的实时演算模型",
+      "journal": "软件学报",
+      "volume": 27,
+      "number": 3,
+      "year": 2016
+    },
+    {
+      "authors": "孙景昊, 关楠, 邓庆绪*",
+      "title": "带时间约束实时任务图模型上可调度性分析算法研究",
+      "journal": "计算机学报",
+      "volume": 39,
+      "number": 12,
+      "year": 2016
+    },
+    {
+      "authors": "Tianyu Zhang, Nan Guan, Qingxu Deng, Wang Yi",
+      "title": "Start Time Configuration for Strictly Periodic Real-Time Task Systems",
+      "journal": "Journal of Systems Architecture",
+      "volume": 66,
+      "pages": "61-68",
+      "year": 2016
+    },
+    {
+      "authors": "Yan Wang, Wei Wei, Qingxu Deng*, Wei Liu, Houbing Song",
+      "title": "An Energy-Efficient Skyline Query for Massively Multidimensional Sensing Data",
+      "journal": "Sensors",
+      "volume": 16,
+      "number": 1,
+      "pages": "83",
+      "year": 2016
+    },
+    {
+      "authors": "Jinghao Sun, Nan Guan, Yang Wang, Qingxu Deng, Peng Zeng, Wang Yi",
+      "title": "Feasibility of Fork-Join Real-Time Task Graph Models: Hardness and Algorithms",
+      "journal": "ACM Transaction on Embedded Computing Systems",
+      "volume": 15,
+      "number": 1,
+      "pages": "1-28",
+      "year": 2016
+    },
+    {
+      "authors": "Xue Liu, Ze-ke Wang, Qing-xu Deng",
+      "title": "Design and FPGA Implementation of a Reconfigurable 1024-Channel Channelization Architecture for SDR Application",
+      "journal": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+      "volume": 24,
+      "number": 7,
+      "pages": "2449-2461",
+      "year": 2016
+    },
+    {
+      "authors": "Chuancai Gu, Nan Guan, Zhiwei Feng, Qingxu Deng, Xiaobo Sharon Hu and Wang Yi",
+      "title": "Transforming Real-Time Task Graphs to Improve Schedulability",
+      "journal": "The 22nd IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA 2016)",
+      "volume": 46,
+      "number": 6,
+      "pages": "29-38",
+      "year": 2016
+    },
+    {
+      "authors": "Chuanwen Li, Yu Gu, Jianzhong Qi, Ge Yu, Rui Zhang, Qingxu Deng",
+      "title": "INSQ: An Influential Neighbor Set Based Moving kNN Query Processing System",
+      "journal": "IEEE International Conference on Data Engineering (ICDE 2016)",
+      "pages": "1338-1341",
+      "year": 2016
+    },
+    {
+      "authors": "Aiping Tan, Qixin Wang, Nan Guan, Qingxu Deng, Sharon Hu",
+      "title": "Inter-Cell Channel Time Slot Scheduling for Multichannel Multiradio Cellular Fieldbuses",
+      "journal": "The 36th IEEE Real-Time Systems Symposium (RTSS 2015)",
+      "pages": "227-238",
+      "year": 2015
+    },
+    {
+      "authors": "王妍, 邓庆绪*, 刘赓浩, 银彪",
+      "title": "结合运动方程与卡尔曼滤波的动态目标追踪预测算法",
+      "journal": "计算机科学",
+      "volume": 42,
+      "number": 12,
+      "pages": "76-81",
+      "year": 2015
+    },
+    {
+      "authors": "Jinghao Sun, Nan Guan, Yang Wang, Qingxu Deng, Peng Zeng, Wang Yi",
+      "title": "EDF Schedulability Analysis for the Fork-Join Real-Time Task Model: Hardness Results and Algorithms",
+      "journal": "ACM Transactions on Embedded Computing Systems",
+      "volume": 15,
+      "number": 1,
+      "pages": "1-28",
+      "year": 2015
+    },
+    {
+      "authors": "Xia Changqing, Wei Liu, and Qingxu Deng",
+      "title": "Cost minimization of wireless sensor networks with unlimited-lifetime energy for monitoring oil pipelines",
+      "journal": "IEEE/CAA Journal of Automatica Sinica",
+      "volume": 2,
+      "number": 3,
+      "pages": "290-295",
+      "year": 2015
+    },
+    {
+      "authors": "Nan Guan, Meiling Han, Chuancai Gu, Qingxu Deng and Wang Yi",
+      "title": "Bounding Carry-in Interference to Improve Fixed-Priority Global Multiprocessor Scheduling Analysis",
+      "journal": "21th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA 2015)",
+      "pages": "11-20",
+      "year": 2015
+    },
+    {
+      "authors": "Yuhan Lin, Nan Guan, Qingxu Deng",
+      "title": "Allocation and Scheduling of Real-Time Tasks with Volatile/Non-Volatile Hybrid Memory Systems",
+      "journal": "The 4th IEEE Non-Volatile Memory System and Applications Symposium (NVMSA 2015)",
+      "pages": "1-6",
+      "year": 2015
+    },
+    {
+      "authors": "Nan Guan, Mengying Zhao, Jason Xue, Yongpan Liu, Wang Yi",
+      "title": "Modular Performance of Energy Harvesting Real-Time Networked Systems",
+      "journal": "The 36th IEEE Real-Time Systems Symposium (RTSS 2015)",
+      "pages": "65-74",
+      "year": 2015
+    },
+    {
+      "authors": "Nan Guan, Mingsong Lv, Wang Yi and Ge Yu",
+      "title": "WCET Analysis with MRU Cache: Challenging LRU for Predictability",
+      "journal": "ACM Transactions on Embedded Computing Systems (TECS)",
+      "volume": 13,
+      "number": "4s",
+      "pages": "123",
+      "year": 2014
+    },
+    {
+      "authors": "Jinghao Sun, Nan Guan, Yang Wang, Qingxu Deng, Peng Zeng, Wang Yi",
+      "title": "Feasibility of Fork-Join Real-Time Task Graph Models : Hardness and Algorithms",
+      "journal": "Acm Transactions on Embedded Computing Systems (TECS)",
+      "volume": 15,
+      "number": 1,
+      "pages": "1-28",
+      "year": 2016
+    },
+    {
+      "authors": "孙景昊, 邓庆绪*, 孟亚坤",
+      "title": "GPU上两阶段负载调度问题的建模与近似算法",
+      "journal": "软件学报",
+      "volume": 25,
+      "number": 2,
+      "pages": "298-313",
+      "year": 2014
+    },
+    {
+      "authors": "谷传才, 关 楠, 于金铭, 王 义, 邓庆绪*",
+      "title": "多处理器混合关键性系统中的划分调度策略",
+      "journal": "软件学报",
+      "volume": 25,
+      "number": 2,
+      "pages": "284-297",
+      "year": 2014
+    },
+    {
+      "authors": "Wei Liu, Jian-Jia Chen, Anas Toma, Tei-Wei Kuo, Qingxu Deng",
+      "title": "Computation offloading by using timing unreliable components in real-time systems",
+      "conference": "Design Automation Conference (DAC)",
+      "pages": "1-6",
+      "year": 2014
+    },
+    {
+      "authors": "KuanChung Huang, YuChen Wu, CheWei Chang, TeiWei Kuo, ChiSheng Shih, Qingxu Deng",
+      "title": "Real-time process synchronization for systems with accelerators",
+      "conference": "Proceedings of the 2014 Conference on Research in Adaptive and Convergent Systems",
+      "pages": "350-355",
+      "year": 2014
+    },
+    {
+      "authors": "Changqing Xia, Nan Guan, Qingxu Deng, Yi Wang",
+      "title": "Maximizing Lifetime of Three-Dimensional Corona-Based Wireless Sensor Networks",
+      "journal": "International Journal of Distributed Sensor Networks",
+      "volume": 10,
+      "number": 5,
+      "pages": "149416",
+      "year": 2014
+    },
+    {
+      "authors": "Xi Jin, Fanxin Kong, Peng Zeng, Qingxu Deng, Huiting Xu",
+      "title": "Joint Management of Energy Harvesting, Storage, and Usage for Green Wireless Sensor Networks",
+      "journal": "International Journal of Distributed Sensor Networks",
+      "volume": 10,
+      "number": 6,
+      "pages": "250236",
+      "year": 2014
+    },
+    {
+      "authors": "Xue Liu, Qingxu Deng, Boning Hou, Ze-ke Wang",
+      "title": "High-speed, fixed-latency serial links with Xilinx FPGAs",
+      "journal": "Journal of Zhejiang University-SCIENCE C",
+      "volume": 15,
+      "number": 2,
+      "pages": "153-160",
+      "year": 2014
+    },
+    {
+      "authors": "Xue Liu, Qingxu Deng, Ze-ke Wang",
+      "title": "Design and FPGA Implementation of High-Speed, Fixed-Latency Serial Transceivers",
+      "journal": "IEEE Transactions on Nuclear Science",
+      "volume": 61,
+      "number": 1,
+      "pages": "561-567",
+      "year": 2014
+    },
+    {
+      "authors": "Tianyu Zhang, Nan Guan, Qingxu Deng, Yi Wang",
+      "title": "On the analysis of EDF-VD scheduled mixed-criticality real-time systems",
+      "conference": "Industrial Embedded Systems (SIES)",
+      "pages": "179-188",
+      "year": 2014
+    },
+    {
+      "authors": "Yan Wang, Qingxu Deng, Wei Liu, Baoyan Song",
+      "title": "A Query Approach of Supporting Variable Physical Window in Large-Scale Smart Grid",
+      "conference": "International Conference on Web-Age Information Management",
+      "publisher": "Springer",
+      "pages": "311-322",
+      "year": 2014
+    },
+    {
+      "authors": "Lu Wang, Qingxu Deng, Lu Wang, Qingxu Deng, Mingxing Jia",
+      "title": "Robust Multi-Human Tracking by Detection Update using Reliable Temporal Information",
+      "conference": "Computer Vision Theory and Applications (VISAPP)",
+      "volume": 3,
+      "pages": "387-396",
+      "year": 2014
+    },
+    {
+      "authors": "Lu Wang, Xiaoli Ji, Qingxu Deng, Mingxing Jia",
+      "title": "Deformable Part Model based Multiple Pedestrian Detection for Video Surveillance in Crowded Scenes",
+      "conference": "Computer Vision Theory and Applications (VISAPP)",
+      "volume": 2,
+      "pages": "599-604",
+      "year": 2014
+    },
+    {
+      "authors": "Sun, Youcheng, Giuseppe Lipari, Nan Guan, and Wang Yi",
+      "title": "Improving the response time analysis of global fixed-priority multiprocessor scheduling",
+      "conference": "Embedded and Real-Time Computing Systems and Applications (RTCSA)",
+      "pages": "1-9",
+      "year": 2014
+    },
+    {
+      "authors": "Zhang, Yi, Nan Guan, and Wang Yi",
+      "title": "Understanding the Dynamic Caches on Intel Processors: Methods and Applications",
+      "conference": "Embedded and Ubiquitous Computing (EUC)",
+      "pages": "58-64",
+      "year": 2014
+    },
+    {
+      "authors": "Nan Guan, Yi Wang",
+      "title": "General and efficient response time analysis for EDF scheduling",
+      "conference": "Proceedings of the conference on Design, Automation & Test in Europe (DATE)",
+      "pages": "255",
+      "year": 2014
+    },
+    {
+      "authors": "Guan, Nan, Mingsong Lv, Wang Yi, and Ge Yu",
+      "title": "WCET analysis with MRU cache: Challenging LRU for predictability",
+      "journal": "ACM Transactions on Embedded Computing Systems (TECS)",
+      "volume": 13,
+      "number": "4s",
+      "pages": "123",
+      "year": 2014
+    },
+    {
+      "authors": "林宇晗, 孔繁鑫, 徐慧婷, 金曦, 邓庆绪*",
+      "title": "线性加速比并行实时任务的节能研究",
+      "journal": "计算机学报",
+      "volume": 36,
+      "number": 2,
+      "pages": "384-392",
+      "year": 2013
+    },
+    {
+      "authors": "金 曦, 李美锋, 邓庆绪*, 孔繁鑫",
+      "title": "片上网络有环通信集的实时调度算法",
+      "journal": "小型微型计算机系统",
+      "volume": 34,
+      "number": 8,
+      "pages": "1917-1920",
+      "year": 2013
+    },
+    {
+      "authors": "孔繁鑫*, 林宇晗, 徐慧婷, 任碧岩, 邓庆绪",
+      "title": "单处理器多外设实时系统全局能耗优化算法研究",
+      "journal": "小型微型计算机系统",
+      "volume": 34,
+      "number": 4,
+      "pages": "1917-1920, 932-935",
+      "year": 2013
+    },
+    {
+      "authors": "Xi Jin, Zhiyu Jiang, Xue Zhang, Qingxu Deng",
+      "title": "Evacuation Algorithm Design and System Implementation in Major Accident",
+      "journal": "Journal of Northeastern University (Natural Science)",
+      "year": 2013,
+      "volume": 10,
+      "pages": "006"
+    },
+    {
+      "authors": "Chuancai Gu, Nan Guan, Qingxu Deng, Yi Wang",
+      "title": "Improving OCBP-based scheduling for mixed-criticality sporadic task systems",
+      "conference": "Embedded and Real-Time Computing Systems and Applications (RTCSA)",
+      "pages": "247-256",
+      "year": 2013
+    },
+    {
+      "authors": "Nan Guan, Xinping Yang, Mingsong Lv, Wang Yi",
+      "title": "FIFO Cache Analysis for WCET Estimation: A Quantitative Approach",
+      "conference": "Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+      "pages": "296-301",
+      "year": 2013
+    },
+    {
+      "authors": "Chuancai Gu, Nan Guan, Qingxu Deng, Wang Yi",
+      "title": "Improving OCBP-based Scheduling for Mixed-Criticality Sporadic Task Systems",
+      "conference": "Embedded and Real-Time Computing Systems and Applications (RTCSA)",
+      "pages": "247-256",
+      "year": 2013
+    },
+    {
+      "authors": "Nan Guan, Wang Yi",
+      "title": "Fixed-Priority Multiprocessor Scheduling: Critical Instance, Response Time and Utilization Bound",
+      "conference": "26th IEEE International Parallel & Distributed Processing Symposium (IPDPS)",
+      "pages": "2470-2473",
+      "year": 2012
+    },
+    {
+      "authors": "Nan Guan, Mingsong Lv, Wang Yi, Ge Yu",
+      "title": "WCET Analysis with MRU Caches: Challenging LRU for Predictability",
+      "conference": "Proceedings of IEEE 18th Real-Time and Embedded Technology and Applications Symposium (RTAS)",
+      "pages": "55-64",
+      "year": 2012
+    },
+    {
+      "authors": "Nan Guan, Martin Stigge, Wang Yi, Ge Yu",
+      "title": "Parametric Utilization Bounds for Fixed-Priority Multiprocessor Scheduling",
+      "conference": "26th IEEE International Parallel & Distributed Processing Symposium (IPDPS)",
+      "pages": "261-272",
+      "year": 2012
+    },
+    {
+      "authors": "Huiting Xu, Fanxin Kong, Qingxu Deng",
+      "title": "Energy Minimizing for Parallel Real-Time Tasks Based on Level-Packing",
+      "conference": "Proceedings of IEEE 18th International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA)",
+      "pages": "98-103",
+      "year": 2012
+    },
+    {
+      "authors": "Yan Wang, Qingxu Deng, Wei Liu, Baoyan Song",
+      "title": "A Data-Centric Storage Approach for Efficient Query of Large-Scale Smart Grid",
+      "conference": "Proceedings of Nineth Web Information Systems and Applications Conference (WISA)",
+      "pages": "193-197",
+      "year": 2012
+    },
+    {
+      "authors": "Lu Wang, Yung, Nelson, Hon Ching",
+      "title": "Three-Dimensional Model-Based Human Detection in Crowded Scenes",
+      "journal": "IEEE Transaction On Intelligent Transportation Systems",
+      "volume": 13,
+      "number": 2,
+      "pages": "691-703",
+      "year": 2012
+    },
+    {
+      "authors": "Yu Gu, Ge Yu, Chuanwen Li",
+      "title": "Deadline-Aware Complex Event Processing Models over Distributed Monitoring Streams",
+      "journal": "Mathematical and Computer Modelling",
+      "volume": 55,
+      "number": "3-4",
+      "pages": "901-917",
+      "year": 2012
+    },
+    {
+      "authors": "Nan Guan, Wang Yi",
+      "title": "Memory Access Aware Mapping for Networks-on-Chip",
+      "conference": "The 17th IEEE International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA 2011)",
+      "pages": "339-348",
+      "year": 2011
+    },
+    {
+      "authors": "Fanxin Kong, Wang Yi, Qingxu Deng",
+      "title": "Energy-Efficient Scheduling of Real-Time Tasks on Cluster-Based Multicores",
+      "conference": "Design, Automation & Test in Europe Conference & Exhibition (DATE)",
+      "pages": "1-6",
+      "year": 2011
+    },
+    {
+      "authors": "Fanxin Kong, Nan Guan, Qingxu Deng, Wang Yi",
+      "title": "Energy-Efficient Scheduling for Parallel Real-Time Tasks Based on Level-Packing",
+      "conference": "Proceedings of the 2011 ACM Symposium on Applied Computing (SAC 2011)",
+      "pages": "635-640",
+      "year": 2011
+    },
+    {
+      "authors": "Mingsong Lv, Nan Guan, Qingxu Deng, Ge Yu, Wang Yi",
+      "title": "McAiT - A Timing Analyzer for Multicore Real-Time Software",
+      "conference": "ATVA",
+      "pages": "414-417",
+      "year": 2011
+    },
+    {
+      "authors": "Yi Zhang, Nan Guan, Wang Yi",
+      "title": "Toward the Implementation and Evaluation of Semi-Partitioned Multi-Core Scheduling",
+      "conference": "PPES",
+      "pages": "42-46",
+      "year": 2011
+    },
+    {
+      "authors": "Nan Guan, Wang Yi, Qingxu Deng, Zonghua Gu, Ge Yu",
+      "title": "Schedulability analysis for non-preemptive fixed-priority multiprocessor scheduling",
+      "journal": "Journal of Systems Architecture-Embedded Systems Design",
+      "volume": 57,
+      "number": 5,
+      "pages": "536-546",
+      "year": 2011
+    },
+    {
+      "authors": "Mingsong Lv, Wang Yi, Nan Guan, Ge Yu",
+      "title": "Combining Abstract Interpretation with Model Checking for Timing Analysis of Multicore Real-Time Software",
+      "conference": "31st IEEE Real-Time Systems Symposium (RTSS 2010)",
+      "pages": "339-349",
+      "year": 2010
+    },
+    {
+      "authors": "Mingsong Lv, Nan Guan, Qingxu Deng, Ge Yu, Wang Yi",
+      "title": "Static Worst-Case Execution Time Analysis of the uC/OS-II Real-Time Kernel",
+      "journal": "Frontiers of Computer Science in China",
+      "year": 2010
+    },
+    {
+      "authors": "Yifeng Guo, Fanxin Kong, Dakai Zhu, Ali Saman Tosun, Qingxu Deng",
+      "title": "Sensor Placement for Lifetime Maximization in Monitoring Oil Pipelines",
+      "conference": "Proceedings of the first ACM/IEEE International Conference on Cyber-Physical (ICCPS'10)",
+      "pages": "61-68",
+      "year": 2010
+    },
+    {
+      "authors": "Xi Jin, Nan Guan, Mingsong Lv, Qingxu Deng",
+      "title": "Improving the Performance of Shared Memory Communication in Impulse C",
+      "journal": "IEEE Embedded Systems Letters",
+      "volume": 2,
+      "number": 3,
+      "pages": "49-52",
+      "year": 2010
+    },
+    {
+      "authors": "Fanxin Kong, Yiqun Wang, Qingxu Deng, Wang Yi",
+      "title": "Minimizing Multi-Resource Energy for Real-Time Systems with Discrete Operation Modes",
+      "conference": "22nd EUROMICRO Conference on Real-Time Systems (ECRTS 2010)",
+      "pages": "113-122",
+      "year": 2010
+    },
+    {
+      "authors": "Deng Qingxu, Kong Fanxin, Xu Huiting, Jin Xi",
+      "title": "Improving RHS for Energy Saving",
+      "journal": "Journal of Northeastern University(Natural Science)",
+      "volume": 4,
+      "pages": "007",
+      "year": 2010
+    },
+    {
+      "authors": "Nan Guan, Zonghua Gu, Wang Yi, Ge Yu",
+      "title": "Improving Scalability of Model Checking for Minimizing Buffer Requirements of Synchronous Data Flow Graphs",
+      "conference": "ASPDAC 2009",
+      "pages": "715-720",
+      "awards": "Best paper nominated",
+      "year": 2009
+    },
+    {
+      "authors": "Mingsong Lv, Nan Guan, Yi Zhang, Qingxu Deng, Ge Yu, Jianming Zhang",
+      "title": "A Survey of WCET Analysis of Real-Time Operating Systems",
+      "conference": "Proceedings of the 6th IEEE International Conference on Embedded Software and Systems (ICESS)",
+      "pages": "65-72",
+      "year": 2009
+    },
+    {
+      "authors": "Mingsong Lv, Nan Guan, Yi Zhang, Rui Chen, Qingxu Deng, Ge Yu, Wang Yi",
+      "title": "WCET Analysis of the uC/OS-II Real-Time Kernel",
+      "conference": "Proceedings of the 7th IEEE/IFIP International Conference on Embedded and Ubiquitous Computing (EUC)",
+      "pages": "2",
+      "year": 2009
+    },
+    {
+      "authors": "Weichen Liu, Jin Cui, Zonghua Gu, Xiuqiang He, Qingxu Deng",
+      "title": "Efficient 2D Area Management and Online Task Placement on Runtime Reconfigurable FPGAs",
+      "journal": "Microprocessors and Microsystems-Embedded Hardware Design",
+      "volume": 33,
+      "number": "5-6",
+      "pages": "374-387",
+      "year": 2009
+    },
+    {
+      "authors": "Nan Guan, Martin Stigge, Wang Yi, Ge Yu",
+      "title": "New Response Time Bounds for Fixed Priority Multiprocessor Scheduling",
+      "conference": "the 30th IEEE Real-Time Systems Symposium (RTSS'09)",
+      "pages": "387-397",
+      "awards": "Best Paper Award",
+      "year": 2009
+    },
+    {
+      "authors": "Nan Guan, Martin Stigge, Wang Yi, Ge Yu",
+      "title": "Cache-Aware Scheduling and Analysis for Multicores",
+      "conference": "the 7th International Conference on Embedded Software (EMSOFT'09)",
+      "pages": "245-254",
+      "year": 2009
+    },
+    {
+      "authors": "Nan Guan, Qingxu Deng, Zonghua Gu, Wenyao Xu, Ge Yu",
+      "title": "Schedulability Analysis of Preemptive and Non-preemptive EDF on Partially Runtime Reconfigurable FPGAs",
+      "journal": "ACM Transactions on Design Automation of Electronic Systems (TODAES)",
+      "volume": 13,
+      "number": "4",
+      "pages": "56",
+      "year": 2008
+    },
+    {
+      "authors": "Nan Guan, Wang Yi, Zonghua Gu, Qingxu Deng, Ge Yu",
+      "title": "New Schedulability Test Conditions for Non-preemptive Scheduling on Multiprocessor Platforms",
+      "conference": "Proceedings of the 29th Real-Time Systems Symposium (RTSS 2008)",
+      "pages": "137-146",
+      "year": 2008
+    },
+    {
+      "authors": "Nan Guan, Zonghua Gu, Mingsong Lv, Qingxu Deng, Ge Yu",
+      "title": "Exact Schedulability Analysis of Global Scheduling on Multiprocessor Platforms by Symbolic Model Checking",
+      "conference": "Proceedings of the 11th IEEE International Symposium on Object-Oriented Real-Time Systems (ISORC 2008)",
+      "pages": "556-560",
+      "year": 2008
+    },
+    {
+      "authors": "Mingsong Lv, Zonghua Gu, Nan Guan, Qingxu Deng, Ge Yu",
+      "title": "Performance Comparison of Techniques on Static Path Analysis of WCET",
+      "conference": "the 2008 IEEE/IFIP International Conference On Embedded and Ubiquitous Computing (EUC 2008)",
+      "volume": 1,
+      "pages": "104-111",
+      "year": 2008
+    },
+    {
+      "authors": "Mingsong Lv, Qingxu Deng, Nan Guan, Yaming Xie, Ge Yu",
+      "title": "ARMISS: An Instruction Set Simulator for the ARM Architecture",
+      "conference": "the 2008 IEEE International Conference on Embedded Software and Systems (ICESS 2008)",
+      "pages": "548-555",
+      "year": 2008
+    },
+    {
+      "authors": "Qingxu Deng, Fanxin Kong, Nan Guan, Mingsong Lv, Wang Yi",
+      "title": "On-line Placement of Real-time Tasks on 2D Partially Run-time Reconfigurable FPGAs",
+      "conference": "the 5th IEEE International Symposium on Embedded Computing (SEC 2008)",
+      "pages": "20-25",
+      "year": 2008
+    },
+    {
+      "authors": "Qingxu Deng, Yi Zhang, Nan Guan, Zonghua Gu",
+      "title": "A Unified HW/SW Operating System for Partially Runtime Reconfigurable FPGA based Computer Systems",
+      "conference": "Proc. of the 20th Euro-Micro Conference on Real-time Systems Work-in-Progress Session (ECRTS 2008 WiP)",
+      "year": 2008
+    },
+    {
+      "authors": "Zonghua Gu, Mingxuan Yuan, Nan Guan, Mingsong Lv, Qingxu Deng, Ge Yu",
+      "title": "Static Scheduling and Software Synthesis of Dataflow Models with Symbolic Model-Checking",
+      "conference": "28th Real-Time Systems Symposium (RTSS 2007)",
+      "pages": "353-364",
+      "year": 2007
+    },
+    {
+      "authors": "Nan Guan, Zonghua Gu, Qingxu Deng, Weichen Liu, Ge Yu",
+      "title": "Improved Schedulability Analysis of EDF Scheduling on Reconfigurable Hardware Devices",
+      "conference": "In Proc. of 21st IEEE International Parallel & Distributed Processing Symposium (IPDPS 2007)",
+      "pages": "149",
+      "year": 2007
+    },
+    {
+      "authors": "Nan Guan, Zonghua Gu, Qingxu Deng, Ge Yu",
+      "title": "Exact Schedulability Analysis for Static-Priority Global Multiprocessor Scheduling using Model-Checking",
+      "conference": "Workshop on Software Technologies for Future Embedded & Ubiquitous Systems (SEUS 2007)",
+      "pages": "263-272",
+      "year": 2007
+    },
+    {
+      "authors": "Nan Guan, Mingsong Lv, Qingxu Deng, Ge Yu",
+      "title": "A Real-Time Scheduling Algorithm with Buffer Optimization for Embedded Signal Processing Systems",
+      "conference": "In Proc. of the 4th IEEE International Symposium on Embedded Computing (SEC 2007)",
+      "volume": 1,
+      "pages": "772-777",
+      "year": 2007
+    },
+    {
+      "authors": "Jin Cui, Qingxu Deng, Xiuqiang He, Zonghua Gu",
+      "title": "An efficient algorithm for online management of 2D area of partially reconfigurable FPGAs",
+      "conference": "In proc. of Design Automation and Test in Europe Conference (DATE 2007)",
+      "pages": "129-134",
+      "year": 2007
+    },
+    {
+      "authors": "Jin Cui, Zonghua Gu, Weichen Liu, Qingxu Deng",
+      "title": "An Efficient Algorithm for Online Soft Real-Time Task Placement on Reconfigurable Hardware Devices",
+      "conference": "In the Proc. of the 10th IEEE International Symposium on Object-oriented Real-time Systems (ISORC 2007)",
+      "pages": "321-328",
+      "year": 2007
+    },
+    {
+      "authors": "Zonghua Gu, Qingxu Deng",
+      "title": "QoS-Optimized Integration of Embedded Software Components with Multiple Modes of Execution",
+      "conference": "In proc. of the 9th International Conference on Software Engineering & Knowledge Engineering (SEKE 2007)",
+      "pages": "320-325",
+      "year": 2007
+    },
+    {
+      "authors": "Qingxu Deng, Hai Xu, Shuisheng Wei, Yu Han, Ge Yu",
+      "title": "An Embedded SOPC System Using Automation Design",
+      "conference": "International Conference on Parallel Processing 2005 Workshop (ICPP 2005)",
+      "pages": "232-239",
+      "year": 2005
+    },
+    {
+      "authors": "Hai Xu, Yu Han, Shuisheng Wei, Qingxu Deng, Jin Cui, Shuang Wang, Ge Yu",
+      "title": "A Remote Wire/Wireless Video Monitor System Using HW/SW Co-scheduling RTOS",
+      "conference": "The 2005 International Conference on Embedded Systems and Software (ICESS 2005)",
+      "pages": "53-58",
+      "year": 2005
+    },
+    {
+      "authors": "Qingxu Deng, Shuisheng Wei, Hai Xu, Yu Han, Ge Yu",
+      "title": "A Reconfigurable RTOS with HW/SW Co-scheduling for SOPC",
+      "conference": "The 2005 International Conference on Embedded Systems and Software (ICESS 2005)",
+      "pages": "6",
+      "year": 2005
+    },
+    {
+      "authors": "Zhengyu Ou, Ge Yu, Yaxin Yu, Shanshan Wu, Xiaochun Yang, Qingxu Deng",
+      "title": "Tick Scheduling: A Deadline Based Optimal Task Scheduling Approach for Real-Time Data Stream Systems",
+      "conference": "WAIM 2005",
+      "pages": "725-730",
+      "year": 2005
+    },
+    {
+      "authors": "Qingxu Deng, Mingsong Lv, Ge Yu",
+      "title": "Selecting a Scheduling Policy for Embedded Real-Time Monitor and Control Systems",
+      "conference": "The 2004 International Conference on Embedded Systems and Software (ICESS 2004)",
+      "pages": "494-501",
+      "year": 2004
+    }
+  ]
+}

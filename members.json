@@ -1,0 +1,205 @@
+{
+  "Faculty_And_Staff": [
+    {
+      "name": "Qingxu Deng",
+      "title": "Prof"
+    },
+    {
+      "name": "X.Sharon Hu",
+      "title": "Concurrent Prof"
+    },
+    {
+      "name": "Nan Guan",
+      "title": "Concurrent Prof"
+    },
+    {
+      "name": "Mingsong Lv",
+      "title": "Associate Prof"
+    },
+    {
+      "name": "Lixing Wang",
+      "title": "Associate Prof"
+    },
+    {
+      "name": "Lu Wang",
+      "title": "Associate Prof"
+    },
+    {
+      "name": "Chuanwen Li",
+      "title": "Associate Prof"
+    },
+    {
+      "name": "Xue Liu",
+      "title": "Associate Prof"
+    },
+    {
+      "name": "Yi Zhang",
+      "title": "Associate Prof"
+    }
+  ],
+  "masters_students": [
+    {
+      "name": "Chaoquan Wu",
+      "admission_year": 2021,
+      "graduation_year": 2024
+    },
+    {
+      "name": "Junqi Zhao",
+      "admission_year": 2021,
+      "graduation_year": 2024
+    },
+    {
+      "name": "Kangwei Lin",
+      "admission_year": 2021,
+      "graduation_year": 2024
+    },
+    {
+      "name": "Mingyang Sun",
+      "admission_year": 2021,
+      "graduation_year": 2024
+    },
+    {
+      "name": "Qingwei Feng",
+      "admission_year": 2021,
+      "graduation_year": 2024
+    },
+    {
+      "name": "Shujing Hao",
+      "admission_year": 2021,
+      "graduation_year": 2024
+    },
+    {
+      "name": "Laiwen Li",
+      "admission_year": 2021,
+      "graduation_year": 2024
+    },
+    {
+      "name": "Wenxuan Xing",
+      "admission_year": 2021,
+      "graduation_year": 2024
+    },
+    {
+      "name": "Yang Liu",
+      "admission_year": 2021,
+      "graduation_year": 2024
+    },
+    {
+      "name": "Zihao Li",
+      "admission_year": 2021,
+      "graduation_year": 2024
+    },
+    {
+      "name": "Heyuan Guan",
+      "admission_year": 2021,
+      "graduation_year": 2024
+    },
+    {
+      "name": "Maoyang Shan",
+      "admission_year": 2022,
+      "graduation_year": 2025
+    },
+    {
+      "name": "Wenjia Dong",
+      "admission_year": 2022,
+      "graduation_year": 2025
+    },
+    {
+      "name": "Hongyu Tao",
+      "admission_year": 2022,
+      "graduation_year": 2025
+    },
+    {
+      "name": "Yifei Wang",
+      "admission_year": 2022,
+      "graduation_year": 2025
+    },
+    {
+      "name": "Huiyao Xiao",
+      "admission_year": 2022,
+      "graduation_year": 2025
+    },
+    {
+      "name": "Liang Xiao",
+      "admission_year": 2022,
+      "graduation_year": 2025
+    },
+    {
+      "name": "Rentao Ni",
+      "admission_year": 2022,
+      "graduation_year": 2025
+    },
+    {
+      "name": "Zhan Gao",
+      "admission_year": 2023,
+      "graduation_year": 2026
+    },
+    {
+      "name": "Shichang Gao",
+      "admission_year": 2023,
+      "graduation_year": 2026
+    },
+    {
+      "name": "Anzhen Zhu",
+      "admission_year": 2023,
+      "graduation_year": 2026
+    },
+    {
+      "name": "Haotian Zhang",
+      "admission_year": 2023,
+      "graduation_year": 2026
+    },
+    {
+      "name": "Jian Wang",
+      "admission_year": 2023,
+      "graduation_year": 2026
+    },
+    {
+      "name": "Feichi Han",
+      "admission_year": 2023,
+      "graduation_year": 2026
+    },
+    {
+      "name": "Zhengyang Song",
+      "admission_year": 2023,
+      "graduation_year": 2026
+    },
+    {
+      "name": "Chenyi Wang",
+      "admission_year": 2023,
+      "graduation_year": 2026
+    },
+    {
+      "name": "Zhiyong Wang",
+      "admission_year": 2023,
+      "graduation_year": 2026
+    },
+    {
+      "name": "Kaiyan Cao",
+      "admission_year": 2023,
+      "graduation_year": 2026
+    }
+  ],
+  "phd_students": [
+    {
+      "name": "Dawei Shen"
+    },
+    {
+      "name": "Kankan Wang"
+    },
+    {
+      "name": "Yanfeng Chen"
+    },
+    {
+      "name": "Tao Hu"
+    },
+    {
+      "name": "Dingfu Chen"
+    },
+    {
+      "name": "Shumo Wang"
+    },
+    {
+      "name": "Dandan Wang"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+<!-- layouts/members/list.html -->
+{{ $json := getJSON "data/members.json" }}
+
+{{ $json.Name }}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Members</title>
+</head>
+
+<div class="group">
+  <h2>Teachers</h2>
+  <ul>
+    {{ range $json.Faculty_And_Staff }}
+    <li>{{ .name }}</li>
+    {{ end }}
+  </ul>
+</div>
+
+</html>

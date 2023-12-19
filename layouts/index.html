@@ -1,0 +1,11 @@
+{{ define "main" }}
+<h1>{{ "About" }}</h1>
+<ul>
+  {{ $pages := where site.Sections "Name" "About"}}
+  {{ range $pages.ByPublishDate.Reverse }}
+  <p>
+    {{ .Content }}
+  </p>
+  {{ end }}
+</ul>
+{{ end }}

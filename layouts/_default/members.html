@@ -1,0 +1,89 @@
+{{ define "main" }}
+
+<style>
+  .group {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+
+  .group-title {
+    margin-top: 25px;
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #D3D3D3;
+    margin-bottom: 15px;
+    /* 增加间距 */
+
+  }
+
+  .members {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 4%;
+    /* 向左添加一些间距，整体向右平移 */
+  }
+
+  .member {
+    width: 28%;
+    box-sizing: border-box;
+    margin-right: 4%;
+    /* 在每个成员右侧增加 2% 的间距 */
+    margin-bottom: 10px;
+    white-space: nowrap;
+    padding: 9;
+    font-size: 0.8em;
+    /* 调整成员名字的字体大小 */
+  }
+
+  .students {
+    width: 21%;
+    box-sizing: border-box;
+    margin-right: 4%;
+    /* 在每个成员右侧增加 2% 的间距 */
+    margin-bottom: 10px;
+    white-space: nowrap;
+    padding: 9;
+    font-size: 0.8em;
+    /* 调整成员名字的字体大小 */
+  }
+</style>
+
+{{/* 读取 JSON 数据文件 */}}
+{{ $membersData := .Site.Data.members }}
+
+
+{{/* 老师分类 */}}
+
+<div class="group-title">Faculty and Staff</div>
+<div class="clear"></div>
+<div class="members">
+  {{ range $membersData.Faculty_And_Staff }}
+  <div class="member">{{ .title }}. {{ .name }}</div>
+  {{ end }}
+</div>
+</div>
+
+{{/* 博士生分类 */}}
+<div class="group-title">Ph.D. Students</div>
+<div class="clear"></div>
+<div class="members">
+  {{ range $membersData.phd_students }}
+  <div class="students">{{ .name }}</div>
+  {{ end }}
+</div>
+</div>
+
+
+<!-- Master Students -->
+{{ range $membersData.masters_students }}
+<div class="group-title">Master Students({{ .admission_year }}-{{ .graduation_year }})</div>
+<div class="clear"></div>
+<div class="members">
+  {{ range .name }}
+  <div class="students"> {{ . }}</div>
+  {{ end }}
+</div>
+{{ end }}
+</div>
+{{ end }}

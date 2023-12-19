@@ -1,0 +1,10 @@
+{{- $page := .Get "page" -}}
+{{- $title := .Get "title" -}}
+{{- $more := .Get "more" -}}
+{{- with .Site.GetPage $page -}}
+{{- if $title -}}<h3>{{- $title -}}</h3>{{- end -}}
+{{- .Content -}}
+{{- if eq $more "true" -}} <a href="{{.RelPermalink}}">Read more</a>{{- end -}}
+{{- else -}}
+{{- warnf "[shortcode/includePage] Page not found %q" $page -}}
+{{- end -}}

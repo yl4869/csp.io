@@ -1,0 +1,111 @@
+{
+  "Faculty_And_Staff": [
+    {
+      "name": "Qingxu Deng",
+      "title": "Prof"
+    },
+    {
+      "name": "X.Sharon Hu",
+      "title": "Concurrent Prof"
+    },
+    {
+      "name": "Nan Guan",
+      "title": "Concurrent Prof"
+    },
+    {
+      "name": "Mingsong Lv",
+      "title": "Associate Prof"
+    },
+    {
+      "name": "Lixing Wang",
+      "title": "Associate Prof"
+    },
+    {
+      "name": "Lu Wang",
+      "title": "Associate Prof"
+    },
+    {
+      "name": "Chuanwen Li",
+      "title": "Associate Prof"
+    },
+    {
+      "name": "Xue Liu",
+      "title": "Associate Prof"
+    },
+    {
+      "name": "Yi Zhang",
+      "title": "Associate Prof"
+    }
+  ],
+  "masters_students": [
+    {
+      "admission_year": 2021,
+      "graduation_year": 2024,
+      "name": [
+        "Chaoquan Wu",
+        "Junqi Zhao",
+        "Kangwei Lin",
+        "Mingyang Sun",
+        "Qingwei Feng",
+        "Shujing Hao",
+        "Laiwen Li",
+        "Wenxuan Xing",
+        "Yang Liu",
+        "Zihao Li",
+        "Heyuan Guan"
+      ]
+    },
+    {
+      "admission_year": 2022,
+      "graduation_year": 2025,
+      "name": [
+        "Maoyang Shan",
+        "Wenjia Dong",
+        "Hongyu Tao",
+        "Yifei Wang",
+        "Huiyao Xiao",
+        "Liang Xiao",
+        "Rentao Ni"
+      ]
+    },
+    {
+      "admission_year": 2023,
+      "graduation_year": 2026,
+      "name": [
+        "Zhan Gao",
+        "Shichang Gao",
+        "Anzhen Zhu",
+        "Haotian Zhang",
+        "Jian Wang",
+        "Feichi Han",
+        "Zhengyang Song",
+        "Chenyi Wang",
+        "Zhiyong Wang",
+        "Kaiyan Cao"
+      ]
+    }
+  ],
+  "phd_students": [
+    {
+      "name": "Dawei Shen"
+    },
+    {
+      "name": "Kankan Wang"
+    },
+    {
+      "name": "Yanfeng Chen"
+    },
+    {
+      "name": "Tao Hu"
+    },
+    {
+      "name": "Dingfu Chen"
+    },
+    {
+      "name": "Shumo Wang"
+    },
+    {
+      "name": "Dandan Wang"
+    }
+  ]
+}
